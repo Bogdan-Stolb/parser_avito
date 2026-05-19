@@ -39,7 +39,7 @@ collect_price # <- вызов самой функции парсера, можн
 Рук-во для страта:
 1. Клонируйте репизоторий 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bogdan-Stolb/parser_avito
 cd avito-parser
 ```
 2. Установите все зависимости 
